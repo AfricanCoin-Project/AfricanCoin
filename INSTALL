@@ -1,0 +1,9 @@
+Building AfricanCoin
+
+See doc/readme-qt.rst for instructions on building AfricanCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AfricanCoin.
+
+See doc/build-*.txt for instructions on building africancoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of AfricanCoin.
